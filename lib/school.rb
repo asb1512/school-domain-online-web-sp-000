@@ -1,3 +1,5 @@
 class School
-  def
+  def initialize
+    
+  end
 end
